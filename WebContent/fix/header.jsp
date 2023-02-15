@@ -11,7 +11,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- dvTopmeu -->
 	<div id="dvTopmeu" class="t_util">
 		<ul>
 			<c:choose>
@@ -55,6 +54,5 @@
 					alt="블로그"></a></li>
 		</ul>
 	</div>
-	<!-- // dvTopmeu -->
 </body>
 </html>
